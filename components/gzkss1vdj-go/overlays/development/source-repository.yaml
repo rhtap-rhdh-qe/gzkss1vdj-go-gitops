@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gzkss1vdj-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gzkss1vdj-go
